@@ -1,0 +1,35 @@
+
+body {
+
+}
+
+@media (max-width: 900px) {
+
+	body {
+		margin: 0px 0px 0px 0px;
+		word-wrap: break-word;
+	}
+
+	img {
+		width: 100vw;
+	}
+
+	p {
+		font-size: 5vw;
+		margin-right: 0vw;
+	}
+
+	h1 {
+		font-size: 5vw;
+	}
+
+	h2 {
+		font-size: 5vw;
+	}
+
+	h3 {
+		font-size: 5vw;
+	}
+
+
+}
