@@ -21,6 +21,8 @@ p {
 	p {
 		font-size: 5vw;
 		margin-right: 0vw;
+		margin-left: 5vw;
+		max-width: 90vw;
 	}
 
 	h1 {
