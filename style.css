@@ -7,6 +7,10 @@ p {
 	max-width: 33vw;
 }
 
+a:visited {
+	color: #00f;
+}
+
 @media (max-width: 900px) {
 
 	body {
